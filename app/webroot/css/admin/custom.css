@@ -1,0 +1,17 @@
+.kid-modal .input-group-addon-1 {
+	display: block;
+	float: left;
+	width: 23%;
+	text-align: right;
+	margin-right: 2%;
+	line-height: 34px;
+	font-size: 16px;
+}
+
+.kid-modal .form-control {
+	width: 74%;
+}
+
+label.error {
+	color: #ff0000;
+}

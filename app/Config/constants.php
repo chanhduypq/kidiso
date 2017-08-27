@@ -1,0 +1,51 @@
+<?php
+    define('TEST','test');
+    define('NO_RECORD_FOUND', 'No record found.');
+    define('ERROR_INPUT_123', 'Please enter the value 1,2,3 into the box.');
+    define('ERROR_INPUT_TEXT', 'Please enter value.');
+    define('ERROR_INPUT_DATE', 'Please choose full 8 days.');
+    define('ERROR_INPUT_NUMBER', 'Please enter number.');
+    define('DATE_FORMAT_FOR_VIEW', "d-m-y");
+    define('NEXT', 'SIGUIENTE');
+    define('PREVIOUS', 'ANTERIOR');
+    define('ERROR_EVALUE_ELECTRICID','Please evalue electricid');
+    define('ERROR_EVALUE_GAS','Please evalue gas');
+    define('ERROR_EVALUE_AQUA','Please evalue aqua');
+    define('ERROR_EVALUE_RESIDOUS','Please evalue residous');
+    define('SUCCESSFULL_EVALUATION','Evaluate successfully');
+    define('ERROR_EVALUATION','Evaluate error');
+    define('SAVE', 'GUARDAR');
+    define('NO_PDCA_MESUREMENT','No result');
+    define('PERMISSION_ERROR', "You don't have permission to access to this page.");
+    define('LOGIN_ERROR','Login error');
+    define('LIMIT_ITEM', '5');
+    define('ERROR_USERNAME','Username empty');
+    define('ERROR_PWD','password empty');
+    define('ERROR_ROLE','role empty');
+    define('NUMBER_OF_DATE_IN_TAB1', 8);
+    define('NUMBER_OF_DATE_IN_TAB2', 8);
+    define('NUMBER_OF_DATE_IN_TAB3', 8);
+    define('NUMBER_OF_DATE_IN_TAB4', 8);
+
+    define('EMAIL_EXISTS', 'This email is already exists');
+    define('USERNAME_EXISTS', 'This username is not available');
+    define('NO_SPACE_AND_NOT_EMPTY', 'No space please and don\'t leave it empty');
+    define('EMAIL_REQUIRE', 'Please enter an email address');
+    define('EMAIL_INVALID', 'Please enter a valid email address');
+    define('PASSWORD_REQUIRE', 'Please enter password');
+    define('PASSWORD_CONFIRM_ERROR', 'Password and confirm password are not match');
+    define('SCHOOL_NAME_REQUIRE', 'Please enter school name');
+    define('SCHOOL_ADDRESS_REQUIRE', 'Please enter school address');
+    define('CLASS_ID_REQUIRE', 'Please enter ClassID');
+    define('CLASS_ID_EXISTS', 'This ClassID is not available');
+    define('PUPIL_USERNAME_REQUIRE', 'Please enter pupil username');
+    define('PUPIL_NAME_REQUIRE', 'Please enter pupil name');
+    define('PUPIL_BIRTHDAY_REQUIRE', 'Please enter pupil birthday');
+    define('CITY_REQUIRE', 'Please choose a city');
+    define('SCHOOL_REQUIRE', 'Please choose a school');
+    define('CLASS_REQUIRE', 'Please choose a class');
+    define('TEACHER_USERNAME_REQUIRE', 'Please enter teacher username');
+    define('TEACHER_NAME_REQUIRE', 'Please enter teacher name');
+    define('TEACHER_BIRTHDAY_REQUIRE', 'Please enter teacher birthday');
+
+?>
